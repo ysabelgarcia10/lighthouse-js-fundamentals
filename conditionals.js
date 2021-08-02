@@ -60,3 +60,5 @@ console.log("---------------");
 const (!raining) {
   console.log("Leave your umbrella at home!");
 }
+
+console.log("-------------end of assignment")
